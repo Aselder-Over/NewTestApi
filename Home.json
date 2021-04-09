@@ -9,21 +9,21 @@
   "fightersBlock": [
       {
         "id": "1",
-        "image": "String",
+        "image": "https://baigenews.kz/upload/iblock/802/KHabib-zanyalsya-baranami-i-ne-khochet-vozvrashchatsya-v-UFC-_-BaigeNews.kz.jpg",
         "name": "Хабиб Нурмагомедов",
         "record": "29-0"
       },
       {
         "id": "2",
-        "image": "String",
-        "name": "String",
-        "record": "String"
+        "image": "https://karate.ru/media/images/2019/4/21/islam-makhachev-ufc-on-fox-30-ceremonial-weigh-ins_es9Pu02.jpg",
+        "name": "Ислам Махачев",
+        "record": "19-1"
       },
       {
         "id": "3",
-        "image": "String",
-        "name": "String",
-        "record": "String"
+        "image": "https://fighttime.ru/media/k2/items/cache/18665b9cef0102a0f7a886820c24d343_XL.jpg",
+        "name": "Забит Магомедшарипов",
+        "record": "18-1"
       }
     ],
     "lastEvents": [
