@@ -11,39 +11,50 @@
         "id": "1",
         "image": "https://baigenews.kz/upload/iblock/802/KHabib-zanyalsya-baranami-i-ne-khochet-vozvrashchatsya-v-UFC-_-BaigeNews.kz.jpg",
         "name": "Хабиб Нурмагомедов",
-        "record": "29-0"
+        "record": "29-0",  
+        "country": "RUS",
+        "ratingPosition": "1"
       },
       {
         "id": "2",
         "image": "https://karate.ru/media/images/2019/4/21/islam-makhachev-ufc-on-fox-30-ceremonial-weigh-ins_es9Pu02.jpg",
         "name": "Ислам Махачев",
-        "record": "19-1"
+        "record": "19-1",  
+        "country": "RUS",
+        "ratingPosition": "2"
       },
       {
         "id": "3",
         "image": "https://fighttime.ru/media/k2/items/cache/18665b9cef0102a0f7a886820c24d343_XL.jpg",
         "name": "Забит Магомедшарипов",
-        "record": "18-1"
+        "record": "18-1",  
+        "country": "RUS",
+        "ratingPosition": "3"
       }
     ],
     "lastEvents": [
           {
             "id": "1",
             "title": "EAGLES NEXT LEVEL",
-            "image": "https://eaglesfc.org/uploads/posts/2020-04/thumbs/1586254233_1577951551_poster-ea-15-feb-buzdugan-vs-panchenko.jpg",
-            "date": "15.02.2020"
+            "images": ["https://eaglesfc.org/uploads/posts/2020-04/thumbs/1586254233_1577951551_poster-ea-15-feb-buzdugan-vs-panchenko.jpg",
+                     "https://eaglesfc.org/uploads/posts/2020-04/thumbs/1586254233_1577951551_poster-ea-15-feb-buzdugan-vs-panchenko.jpg"],
+            "date": "15.02.2020",
+            "description": "Самое главное в достижении успеха - это цель! Тренировки и упорный труд помогут вам во всех ваших начинаниях, главное не останавливайтесь."
           },
           {
             "id": "2",
             "title": "EAGLES RESET",
-            "image": "https://eaglesfc.org/uploads/posts/2021-03/1616058344_innainte-de-eagles.jpg",
-            "date": "13.03.2021"
+            "images": ["https://eaglesfc.org/uploads/posts/2021-03/1616058344_innainte-de-eagles.jpg", 
+                      "https://eaglesfc.org/uploads/posts/2021-03/1616058344_innainte-de-eagles.jpg"],
+            "date": "13.03.2021",
+            "description": "Самое главное в достижении успеха - это цель! Тренировки и упорный труд помогут вам во всех ваших начинаниях, главное не останавливайтесь."
           },
           {
             "id": "3",
             "title": "EAGLES ELIMINATION",
-            "image": "https://eaglesfc.org/uploads/posts/2019-12/thumbs/1576083408_1571726227_instagramm-ea.jpg",
-            "date": "26.10.2019"
+            "images": ["https://eaglesfc.org/uploads/posts/2019-12/thumbs/1576083408_1571726227_instagramm-ea.jpg"],
+            "date": "26.10.2019",
+            "description": "Самое главное в достижении успеха - это цель! Тренировки и упорный труд помогут вам во всех ваших начинаниях, главное не останавливайтесь."
           }
       ],
   "merchBlock": [
