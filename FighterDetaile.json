@@ -1,0 +1,36 @@
+{
+  "fighterDetaile": {
+    "id": "String",
+    "profileName": "String",
+    "name": "String",
+    "description": "String",
+    "professionalAwards": [
+      {
+       "id": "String",
+       "image": "String",
+       "profileName": "String",
+       "title": "String"
+      },
+      {
+       "id": "String",
+       "image": "String",
+       "profileName": "String",
+       "title": "String"
+      }
+    ],
+    "images": [
+      {
+       "id": "String",
+       "image": "String",
+       "profileName": "String",
+       "title": "String"
+      },
+      {
+       "id": "String",
+       "image": "String",
+       "profileName": "String",
+       "title": "String"
+      }
+    ]
+  }
+}

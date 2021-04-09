@@ -1,0 +1,16 @@
+{
+  "popular": [
+    {
+     "id": "String",
+     "image": "String",
+     "profileName": "String",
+     "title": "String"
+    },
+    {
+     "id": "String",
+     "image": "String",
+     "profileName": "String",
+     "title": "String"
+    }
+    ]
+}
