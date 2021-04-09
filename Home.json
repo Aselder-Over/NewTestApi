@@ -1,13 +1,11 @@
 {
-  "mainEventsBlock": [
-    {
+  "mainEventBlock": {
       "id": "1",
       "iamge": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/preloaderImage%201.jpg",
       "stream": "https://www.youtube.com/embed/MQcXEWPesAw",
       "titile": "Free Fight: Khabib Nurmagomedov vs Justin Gaethje",
       "time": "09.04.2021"
-    }
-  ],
+   },
   "fightersBlock": [
       {
         "id": "1",
