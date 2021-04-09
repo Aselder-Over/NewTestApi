@@ -1,0 +1,30 @@
+{
+  "upcomingTournaments": [
+    {
+      "id": "1",
+      "image": ""
+    },
+    {
+      "id": "2",
+      "image": ""
+    },
+    {
+      "id": "3",
+      "image": ""
+    }
+  ],
+  "pastBattles": [
+      {
+        "id": "1",
+        "image": ""
+      },
+      {
+        "id": "2",
+        "image": ""
+      },
+      {
+        "id": "3",
+        "image": ""
+      }
+    ]
+}
