@@ -2,29 +2,35 @@
   "upcomingTournaments": [
     {
       "id": "1",
-      "image": ""
+      "image": "",
+      "video": ""
     },
     {
       "id": "2",
-      "image": ""
+      "image": "",
+      "video": ""
     },
     {
       "id": "3",
-      "image": ""
+      "image": "",
+      "video": ""
     }
   ],
   "pastBattles": [
       {
         "id": "1",
-        "image": ""
+        "image": "",
+        "video": ""
       },
       {
         "id": "2",
-        "image": ""
+        "image": "",
+        "video": ""
       },
       {
         "id": "3",
-        "image": ""
+        "image": "",
+        "video": ""
       }
     ]
 }
