@@ -1,0 +1,33 @@
+{
+  "id": "1",
+  "image": "",
+  "name": "Хабиб Нурмагомедов",
+  "weight": "Полулегкий вес",
+  "fighterParameters": {
+      "fighterWeight": "70 кг",
+      "fighterHeight": "180 см",
+      "fighterRammach": "176 см"
+    },
+    "sportsBase": [
+      "Борьба", 
+      "Рукопашный бой", 
+      "Дзюдо"
+      ],
+      "foughtBattles": [
+        {
+          "id": "1",
+          "image": ""
+        },
+        {
+          "id": "2",
+          "image": ""
+        },
+        {
+          "id": "3",
+          "image": ""
+        }
+      ],
+  "record": "29 - 0 - 0",
+  "country": "RUS",
+  "ratingPosition": "1"
+}
