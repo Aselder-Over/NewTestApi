@@ -1,0 +1,32 @@
+{
+  "header": {
+    "weight": "70-75",
+    "title": "Легкий вес"
+  },
+  "fighter": {
+    "id": "1",
+    "image": "",
+    "name": "Хабиб Нурмагомедов",
+    "record": "29 - 0 - 0",
+    "country": "RUS",
+    "ratingPosition": "1"
+  },
+  "fighters": [
+    {
+      "id": "2",
+      "image": "",
+      "name": "Тони Фергюсон",
+      "record": "15-5-0",
+      "country": "USA",
+      "ratingPosition": "2"
+    },
+    {
+      "id": "3",
+      "image": "",
+      "name": "Джастин Гейтджи",
+      "record": "20-5-0",
+      "country": "USA",
+      "ratingPosition": "3"
+    }
+  ]
+}
