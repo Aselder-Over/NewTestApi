@@ -1,0 +1,71 @@
+{
+  "mainEventsBlock": [
+    {
+      "id": "1",
+      "iamge": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/preloaderImage%201.jpg",
+      "stream": "https://www.youtube.com/embed/MQcXEWPesAw",
+      "titile": "Free Fight: Khabib Nurmagomedov vs Justin Gaethje",
+      "time": "09.04.2021"
+    }
+  ],
+  "fightersBlock": [
+      {
+        "id": "1",
+        "image": "String",
+        "name": "Хабиб Нурмагомедов",
+        "record": "29-0"
+      },
+      {
+        "id": "2",
+        "image": "String",
+        "name": "String",
+        "record": "String"
+      },
+      {
+        "id": "3",
+        "image": "String",
+        "name": "String",
+        "record": "String"
+      }
+    ],
+    "lastEvents": [
+          {
+            "id": "1",
+            "image": "String",
+            "date": "String"
+          },
+          {
+            "id": "2",
+            "image": "String",
+            "date": "String"
+          },
+          {
+            "id": "3",
+            "image": "String",
+            "date": "String"
+          }
+      ],
+  "merchBlock": [
+      {
+        "id": "1",
+        "image": "String",
+        "name": "String",
+        "price": "String",
+        "size": "String"
+      },
+      {
+        "id": "2",
+        "image": "String",
+        "name": "String",
+        "price": "String",
+        "size": "String"
+      },
+      {
+        "id": "3",
+        "image": "String",
+        "name": "String",
+        "price": "String",
+        "size": "String"
+      }
+    ]
+}
