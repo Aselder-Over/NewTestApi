@@ -29,18 +29,21 @@
     "lastEvents": [
           {
             "id": "1",
-            "image": "String",
-            "date": "String"
+            "title": "EAGLES NEXT LEVEL",
+            "image": "https://eaglesfc.org/uploads/posts/2020-04/thumbs/1586254233_1577951551_poster-ea-15-feb-buzdugan-vs-panchenko.jpg",
+            "date": "15.02.2020"
           },
           {
             "id": "2",
-            "image": "String",
-            "date": "String"
+            "title": "EAGLES RESET",
+            "image": "https://eaglesfc.org/uploads/posts/2021-03/1616058344_innainte-de-eagles.jpg",
+            "date": "13.03.2021"
           },
           {
             "id": "3",
-            "image": "String",
-            "date": "String"
+            "title": "EAGLES ELIMINATION",
+            "image": "https://eaglesfc.org/uploads/posts/2019-12/thumbs/1576083408_1571726227_instagramm-ea.jpg",
+            "date": "26.10.2019"
           }
       ],
   "merchBlock": [
