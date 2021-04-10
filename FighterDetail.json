@@ -1,35 +1,30 @@
 {
   "id": "1",
-  "image": "",
-  "name": "Хабиб Нурмагомедов",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/miniF1.png",
+  "name": "Джастин Гейтджи",
   "weight": "Полулегкий вес",
   "fighterParameters": {
       "fighterWeight": "70 кг",
       "fighterHeight": "180 см",
-      "fighterRammach": "176 см"
+      "fighterOld": "30"
     },
-    "sportsBase": [
+  "sportsBase": [
       "Борьба", 
       "Рукопашный бой", 
       "Дзюдо"
-      ],
-      "foughtBattles": [
-        {
-          "id": "1",
-          "image": "",
-          "video": ""
-        },
-        {
-          "id": "2",
-          "image": "",
-          "video": ""
-        },
-        {
-          "id": "3",
-          "image": "",
-          "video": ""
-        }
-      ],
+     ],
+  "foughtBattles": [
+     {
+       "id": "1",
+       "imageSelf": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/historyDeatailBattle1.png",
+       "video": ""
+     },
+     {
+       "id": "2",
+       "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/historyBattleDetail2.png",
+       "video": ""
+     }
+   ],
   "record": "29 - 0 - 0",
   "country": "RUS",
   "ratingPosition": "1"
