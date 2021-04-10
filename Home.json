@@ -1,7 +1,7 @@
 {
   "mainEventBlock": {
       "id": "1",
-      "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/preloaderImage%201.jpg",
+      "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/fighter1.png",
       "stream": "https://www.youtube.com/embed/MQcXEWPesAw",
       "title": "LION FIGHT 65",
       "date": "09.04.2021",
@@ -10,7 +10,7 @@
   "fightersBlock": [
       {
         "id": "1",
-        "image": "https://baigenews.kz/upload/iblock/802/KHabib-zanyalsya-baranami-i-ne-khochet-vozvrashchatsya-v-UFC-_-BaigeNews.kz.jpg",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/fighter2.png",
         "name": "Тони Фергюсон",
         "record": "25-5-0",  
         "country": "USA",
@@ -18,7 +18,7 @@
       },
       {
         "id": "2",
-        "image": "https://karate.ru/media/images/2019/4/21/islam-makhachev-ufc-on-fox-30-ceremonial-weigh-ins_es9Pu02.jpg",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/fighter3.png",
         "name": "Конор Макгрегор",
         "record": "22-4-0",  
         "country": "IRL",
@@ -29,8 +29,8 @@
           {
             "id": "1",
             "title": "Бой за титул чемпиона",
-            "images": ["https://eaglesfc.org/uploads/posts/2020-04/thumbs/1586254233_1577951551_poster-ea-15-feb-buzdugan-vs-panchenko.jpg",
-                     "https://eaglesfc.org/uploads/posts/2020-04/thumbs/1586254233_1577951551_poster-ea-15-feb-buzdugan-vs-panchenko.jpg"],
+            "images": ["https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/fighter4.png",
+                     "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/fighter24.png"],
             "date": "13.05.2020",
             "description1": "В главном бою турнира по смешанным единоборствам АСА 121 в Минске (Беларусь) сразились российский боец Магомедрасул Гасанов (15-2) и болгарин Никола Дипчиков (20-7)",
             "description2": "На кону стоял пояс «временного» чемпиона ACA в среднем весе. Этот бой был рассчитан на пять раундов, но закончился во втором — техническим нокаутом Гасанова. Видео можно посмотреть ниже.",
@@ -39,8 +39,8 @@
           {
             "id": "2",
             "title": "Бой дня",
-            "images": ["https://eaglesfc.org/uploads/posts/2020-04/thumbs/1586254233_1577951551_poster-ea-15-feb-buzdugan-vs-panchenko.jpg",
-                     "https://eaglesfc.org/uploads/posts/2020-04/thumbs/1586254233_1577951551_poster-ea-15-feb-buzdugan-vs-panchenko.jpg"],
+            "images": ["https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/fighter24.png",
+                     "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/fighter4.png"],
             "date": "13.05.2020",
             "description1": "В главном бою турнира по смешанным единоборствам АСА 121 в Минске (Беларусь) сразились российский боец Магомедрасул Гасанов (15-2) и болгарин Никола Дипчиков (20-7)",
             "description2": "На кону стоял пояс «временного» чемпиона ACA в среднем весе. Этот бой был рассчитан на пять раундов, но закончился во втором — техническим нокаутом Гасанова. Видео можно посмотреть ниже.",
@@ -50,28 +50,28 @@
   "merchBlock": [
       {
         "id": "1",
-        "image": "https://ss.sport-express.ru/userfiles/materials/162/1622762/large.jpg",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/merch1.png",
         "name": "Горская папаха Хабиба Нурмагомедова",
         "price": "16 450 ₽",
         "size": "L"
       },
       {
         "id": "2",
-        "image": "https://printbar.ru/upload/thumb/images/77/7761c2c3j325_580x0.jpg",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/merch2.png",
         "name": "Футболка UFC Nurmagomedov",
         "price": "11 000 ₽",
         "size": "L"
       },
       {
         "id": "3",
-        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/djuraby13333-1.360x360.jpg",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/merch3.png",
         "name": "Шорты VENUM",
         "price": "11 000 ₽",
         "size": "XL"
       },
       {
         "id": "3",
-        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/djuraby13333-1.360x360.jpg",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/merch4.png",
         "name": "Перчатки UFC",
         "price": "28 999 ₽",
         "size": "XL"
