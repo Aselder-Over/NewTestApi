@@ -29,7 +29,7 @@
           {
             "id": "1",
             "title": "UFC 229 — Nurmagomedov vs. McGregor",
-            "videoId": "MQcXEWPesAw",
+            "videoId": "81tXbOYJRJw",
             "images": ["https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/content999999.png",
                      "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/fighter24.png"],
             "date": "06.10.2018",
@@ -38,7 +38,7 @@
           {
             "id": "2",
             "title": "Бой дня",
-            "videoId": "81tXbOYJRJw",
+            "videoId": "MQcXEWPesAw",
             "images": ["https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/fighter4.png",
                      "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/fighter4.png"],
             "date": "13.05.2020",
