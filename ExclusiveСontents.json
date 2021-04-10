@@ -2,34 +2,25 @@
   "upcomingTournaments": [
     {
       "id": "1",
-      "image": "",
-      "video": ""
-    },
-    {
-      "id": "2",
-      "image": "",
-      "video": ""
-    },
-    {
-      "id": "3",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/exclusive1.png",
+      "label": "Турнир EFC fight night",
       "video": ""
     }
   ],
   "pastBattles": [
       {
         "id": "1",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/exclusive2.png",
         "video": ""
       },
       {
         "id": "2",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/exclusive3.png",
         "video": ""
       },
       {
         "id": "3",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/exclusive4.png",
         "video": ""
       }
     ]
