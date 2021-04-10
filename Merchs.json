@@ -2,64 +2,71 @@
   {
     "id": "1",
     "image": "https://ss.sport-express.ru/userfiles/materials/162/1622762/large.jpg",
-    "name": "Папаха",
-    "price": "25 000",
+    "name": "Горская папаха Хабиба Нурмагомедова",
+    "price": "16 450 ₽",
     "size": "L"
   },
   {
     "id": "2",
     "image": "https://printbar.ru/upload/thumb/images/77/7761c2c3j325_580x0.jpg",
-    "name": "Футболка",
-    "price": "45 000",
+    "name": "Футболка UFC Nurmagomedov",
+    "price": "11 000 ₽",
     "size": "L"
   },
   {
     "id": "3",
     "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/djuraby13333-1.360x360.jpg",
-    "name": "Чурабки",
+    "name": "Шорты VENUM",
     "price": "55 000",
     "size": "XL"
   },
     {
     "id": "4",
     "image": "https://ss.sport-express.ru/userfiles/materials/162/1622762/large.jpg",
-    "name": "Папаха",
-    "price": "25 000",
+    "name": "Перчатки UFC",
+    "price": "11 000 ₽",
     "size": "L"
   },
   {
     "id": "5",
     "image": "https://printbar.ru/upload/thumb/images/77/7761c2c3j325_580x0.jpg",
-    "name": "Футболка",
-    "price": "45 000",
+    "name": "Капа UFC opro gold level",
+    "price": "28 999 ₽",
     "size": "L"
   },
   {
     "id": "6",
     "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/djuraby13333-1.360x360.jpg",
-    "name": "Чурабки",
-    "price": "55 000",
+    "name": "Боксерская груша UFC",
+    "price": "18 569 ₽",
     "size": "XL"
   },
     {
     "id": "7",
     "image": "https://ss.sport-express.ru/userfiles/materials/162/1622762/large.jpg",
-    "name": "Папаха",
-    "price": "25 000",
+    "name": "Водолазка Reebok UFC",
+    "price": "5 799 ₽",
     "size": "L"
   },
   {
     "id": "8",
     "image": "https://printbar.ru/upload/thumb/images/77/7761c2c3j325_580x0.jpg",
-    "name": "Футболка",
-    "price": "45 000",
+    "name": "Майка UFC",
+    "price": "1 999 ₽",
     "size": "L"
   },
   {
     "id": "9",
     "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/djuraby13333-1.360x360.jpg",
-    "name": "Чурабки",
-    "price": "55 000",
+    "name": "Чемпионский пояc UFC",
+    "price": "99 599 ₽",
+    "size": "XL"
+  },
+  {
+    "id": "10",
+    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/djuraby13333-1.360x360.jpg",
+    "name": "Футболка UFC",
+    "price": "2 999 ₽",
     "size": "XL"
   }
 ]
