@@ -1,38 +1,26 @@
 [
   {
     "id": "1",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/fighter6.png",
     "title": "Полулегкий вес",
-    "weight": "55-60"
+    "weight": "61-66 кг"
   },
   {
     "id": "2",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/fighter7.png",
     "title": "Легкий вес",
-    "weight": "60-65"
+    "weight": "66-70 кг"
   },
   {
     "id": "3",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/fighter8.png",
     "title": "Полуcредний вес",
-    "weight": "65-70"
+    "weight": "70-77 кг"
   },
   {
     "id": "4",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/fighter9.png",
     "title": "Средний вес",
-    "weight": "70-75"
-  },
-  {
-    "id": "5",
-    "image": "",
-    "title": "Полутяжелый вес",
-    "weight": "75-80"
-  },
-  {
-    "id": "5",
-    "image": "",
-    "title": "Тяжелый вес",
-    "weight": "80-85"
+    "weight": "77-84 кг"
   }
 ]
