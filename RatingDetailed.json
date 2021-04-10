@@ -1,32 +1,32 @@
 {
   "header": {
-    "weight": "70-75",
+    "weight": "66-70 кг",
     "title": "Легкий вес"
   },
   "fighter": {
     "id": "1",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/fighter10.png",
     "name": "Хабиб Нурмагомедов",
-    "record": "29 - 0 - 0",
+    "record": "29-0-0",
     "country": "RUS",
     "ratingPosition": "1"
   },
   "fighters": [
     {
       "id": "2",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/miniFighter11.png",
       "name": "Тони Фергюсон",
       "record": "15-5-0",
       "country": "USA",
-      "ratingPosition": "2"
+      "ratingPosition": "1"
     },
     {
       "id": "3",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/miniFighter12.png",
       "name": "Джастин Гейтджи",
       "record": "20-5-0",
       "country": "USA",
-      "ratingPosition": "3"
+      "ratingPosition": "2"
     }
   ]
 }
