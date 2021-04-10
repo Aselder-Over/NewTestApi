@@ -3,80 +3,77 @@
       "id": "1",
       "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/preloaderImage%201.jpg",
       "stream": "https://www.youtube.com/embed/MQcXEWPesAw",
-      "title": "Free Fight: Khabib Nurmagomedov vs Justin Gaethje",
-      "time": "09.04.2021"
+      "title": "LION FIGHT 65",
+      "date": "09.04.2021",
+      "time": "3:00 PM"
    },
   "fightersBlock": [
       {
         "id": "1",
         "image": "https://baigenews.kz/upload/iblock/802/KHabib-zanyalsya-baranami-i-ne-khochet-vozvrashchatsya-v-UFC-_-BaigeNews.kz.jpg",
-        "name": "Хабиб Нурмагомедов",
-        "record": "29-0",  
-        "country": "RUS",
-        "ratingPosition": "1"
+        "name": "Тони Фергюсон",
+        "record": "25-5-0",  
+        "country": "USA",
+        "ratingPosition": "2"
       },
       {
         "id": "2",
         "image": "https://karate.ru/media/images/2019/4/21/islam-makhachev-ufc-on-fox-30-ceremonial-weigh-ins_es9Pu02.jpg",
-        "name": "Ислам Махачев",
-        "record": "19-1",  
-        "country": "RUS",
-        "ratingPosition": "2"
-      },
-      {
-        "id": "3",
-        "image": "https://fighttime.ru/media/k2/items/cache/18665b9cef0102a0f7a886820c24d343_XL.jpg",
-        "name": "Забит Магомедшарипов",
-        "record": "18-1",  
-        "country": "RUS",
-        "ratingPosition": "3"
+        "name": "Конор Макгрегор",
+        "record": "22-4-0",  
+        "country": "IRL",
+        "ratingPosition": "5"
       }
     ],
     "lastEvents": [
           {
             "id": "1",
-            "title": "EAGLES NEXT LEVEL",
+            "title": "Бой за титул чемпиона",
             "images": ["https://eaglesfc.org/uploads/posts/2020-04/thumbs/1586254233_1577951551_poster-ea-15-feb-buzdugan-vs-panchenko.jpg",
                      "https://eaglesfc.org/uploads/posts/2020-04/thumbs/1586254233_1577951551_poster-ea-15-feb-buzdugan-vs-panchenko.jpg"],
-            "date": "15.02.2020",
-            "description": "Самое главное в достижении успеха - это цель! Тренировки и упорный труд помогут вам во всех ваших начинаниях, главное не останавливайтесь."
+            "date": "13.05.2020",
+            "description1": "В главном бою турнира по смешанным единоборствам АСА 121 в Минске (Беларусь) сразились российский боец Магомедрасул Гасанов (15-2) и болгарин Никола Дипчиков (20-7)",
+            "description2": "На кону стоял пояс «временного» чемпиона ACA в среднем весе. Этот бой был рассчитан на пять раундов, но закончился во втором — техническим нокаутом Гасанова. Видео можно посмотреть ниже.",
+            "description3": "Таким образом, Магомедрасул Гасанов одержал шестнадцатую победу в профессиональной карьере и стал «временным» чемпионом АСА в среднем весе. Никола Дипчиков потерпел восьмое поражение. Добавим, что также на этом турнире выступил казахстанец Игорь Свирид (14-10) — он проиграл единогласным решением судей россиянину Черси Дудаеву (12-2).", 
           },
           {
             "id": "2",
-            "title": "EAGLES RESET",
-            "images": ["https://eaglesfc.org/uploads/posts/2021-03/1616058344_innainte-de-eagles.jpg", 
-                      "https://eaglesfc.org/uploads/posts/2021-03/1616058344_innainte-de-eagles.jpg"],
-            "date": "13.03.2021",
-            "description": "Самое главное в достижении успеха - это цель! Тренировки и упорный труд помогут вам во всех ваших начинаниях, главное не останавливайтесь."
-          },
-          {
-            "id": "3",
-            "title": "EAGLES ELIMINATION",
-            "images": ["https://eaglesfc.org/uploads/posts/2019-12/thumbs/1576083408_1571726227_instagramm-ea.jpg"],
-            "date": "26.10.2019",
-            "description": "Самое главное в достижении успеха - это цель! Тренировки и упорный труд помогут вам во всех ваших начинаниях, главное не останавливайтесь."
+            "title": "Бой дня",
+            "images": ["https://eaglesfc.org/uploads/posts/2020-04/thumbs/1586254233_1577951551_poster-ea-15-feb-buzdugan-vs-panchenko.jpg",
+                     "https://eaglesfc.org/uploads/posts/2020-04/thumbs/1586254233_1577951551_poster-ea-15-feb-buzdugan-vs-panchenko.jpg"],
+            "date": "13.05.2020",
+            "description1": "В главном бою турнира по смешанным единоборствам АСА 121 в Минске (Беларусь) сразились российский боец Магомедрасул Гасанов (15-2) и болгарин Никола Дипчиков (20-7)",
+            "description2": "На кону стоял пояс «временного» чемпиона ACA в среднем весе. Этот бой был рассчитан на пять раундов, но закончился во втором — техническим нокаутом Гасанова. Видео можно посмотреть ниже.",
+            "description3": "Таким образом, Магомедрасул Гасанов одержал шестнадцатую победу в профессиональной карьере и стал «временным» чемпионом АСА в среднем весе. Никола Дипчиков потерпел восьмое поражение. Добавим, что также на этом турнире выступил казахстанец Игорь Свирид (14-10) — он проиграл единогласным решением судей россиянину Черси Дудаеву (12-2).", 
           }
       ],
   "merchBlock": [
       {
         "id": "1",
         "image": "https://ss.sport-express.ru/userfiles/materials/162/1622762/large.jpg",
-        "name": "Папаха",
-        "price": "25 000",
+        "name": "Горская папаха Хабиба Нурмагомедова",
+        "price": "16 450 ₽",
         "size": "L"
       },
       {
         "id": "2",
         "image": "https://printbar.ru/upload/thumb/images/77/7761c2c3j325_580x0.jpg",
-        "name": "Футболка",
-        "price": "45 000",
+        "name": "Футболка UFC Nurmagomedov",
+        "price": "11 000 ₽",
         "size": "L"
       },
       {
         "id": "3",
         "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/djuraby13333-1.360x360.jpg",
-        "name": "Чурабки",
-        "price": "55 000",
+        "name": "Шорты VENUM",
+        "price": "11 000 ₽",
+        "size": "XL"
+      },
+      {
+        "id": "3",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/djuraby13333-1.360x360.jpg",
+        "name": "Перчатки UFC",
+        "price": "28 999 ₽",
         "size": "XL"
       }
     ]
