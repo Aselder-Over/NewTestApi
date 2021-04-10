@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/miniFighter11.png",
     "name": "Тони Фергюсон",
     "record": "15-5-0",
     "ratingPosition": "2",
@@ -9,7 +9,7 @@
   },
   {
     "id": "2",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/miniFighter12.png",
     "name": "Джастин Гейтджи",
     "record": "20-5-0",
     "ratingPosition": "3",
