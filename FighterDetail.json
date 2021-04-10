@@ -16,7 +16,7 @@
   "foughtBattles": [
      {
        "id": "1",
-       "imageSelf": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/historyDeatailBattle1.png",
+       "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/historyDeatailBattle1.png",
        "video": ""
      },
      {
