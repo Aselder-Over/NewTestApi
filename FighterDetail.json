@@ -18,7 +18,13 @@
        "id": "1",
        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/historyDeatailBattle1.png",
        "video": "dGWDT3iyrdw",
-       "videoURL": "https://www.youtube.com/embed/dGWDT3iyrdw"
+       "videoURL": "https://youtu.be/dGWDT3iyrdw"
+     },     
+    {
+       "id": "3",
+       "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/historyDeatailBattle1.png",
+       "video": "dGWDT3iyrdw",
+       "videoURL": "https://www.youtube.com/watch?v=dGWDT3iyrdw"
      },
      {
        "id": "2",
