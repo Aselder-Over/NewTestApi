@@ -17,12 +17,14 @@
      {
        "id": "1",
        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/historyDeatailBattle1.png",
-       "video": "dGWDT3iyrdw"
+       "video": "dGWDT3iyrdw",
+       "videoURL": "https://www.youtube.com/embed/dGWDT3iyrdw"
      },
      {
        "id": "2",
        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/historyBattleDetail2.png",
-       "video": "1lHQPVf-Iyk"
+       "video": "1lHQPVf-Iyk",
+       "videoURL": "https://www.youtube.com/embed/dGWDT3iyrdw"
      }
    ],
   "record": "29 - 0 - 0",
