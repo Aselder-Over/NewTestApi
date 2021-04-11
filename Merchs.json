@@ -1,70 +1,70 @@
 [
   {
     "id": "1",
-    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/merchs103.jpg",
+    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/testContent116.png",
     "name": "Горская папаха Хабиба Нурмагомедова",
     "price": "16 450 ₽",
     "size": "L"
   },
   {
     "id": "2",
-    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/merchs102.jpg",
+    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/testContent115.png",
     "name": "Футболка UFC Nurmagomedov",
     "price": "11 000 ₽",
     "size": "L"
   },
   {
     "id": "3",
-    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/merchs104.jpg",
+    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/testContent114.png",
     "name": "Шорты VENUM",
     "price": "55 000",
     "size": "XL"
   },
     {
     "id": "4",
-    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/merchs105.jpg",
+    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/testContent113.png",
     "name": "Перчатки UFC",
     "price": "11 000 ₽",
     "size": "L"
   },
   {
     "id": "5",
-    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/merchs108.jpg",
+    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/testContent112.png",
     "name": "Капа UFC opro gold level",
     "price": "28 999 ₽",
     "size": "L"
   },
   {
     "id": "6",
-    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/merchs101.jpg",
+    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/testContent118.png",
     "name": "Боксерская груша UFC",
     "price": "18 569 ₽",
     "size": "XL"
   },
     {
     "id": "7",
-    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/merchs110.jpg",
+    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/testContent119.png",
     "name": "Водолазка Reebok UFC",
     "price": "5 799 ₽",
     "size": "L"
   },
   {
     "id": "8",
-    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/merchs109.jpg",
+    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/testContent117.png",
     "name": "Майка UFC",
     "price": "1 999 ₽",
     "size": "L"
   },
   {
     "id": "9",
-    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/merchs106.jpg",
+    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/testContent11.png",
     "name": "Чемпионский пояc UFC",
     "price": "99 599 ₽",
     "size": "XL"
   },
   {
     "id": "10",
-    "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/merchs107.jpg",
+    "image": "https://github.com/Aselder-Over/NewTestApi/raw/main/testContent120.png",
     "name": "Футболка UFC",
     "price": "2 999 ₽",
     "size": "XL"
