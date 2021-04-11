@@ -48,28 +48,28 @@
   "merchBlock": [
       {
         "id": "1",
-        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/papahates23.png",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/testContent116.png",
         "name": "Горская папаха Хабиба Нурмагомедова",
         "price": "16 450 ₽",
         "size": "L"
       },
       {
         "id": "2",
-        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/papahatest.png",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/testContent115.png",
         "name": "Футболка UFC Nurmagomedov",
         "price": "11 000 ₽",
         "size": "L"
       },
       {
         "id": "3",
-        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/Frame%2013.png",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/testContent114.png",
         "name": "Шорты VENUM",
         "price": "11 000 ₽",
         "size": "XL"
       },
       {
         "id": "3",
-        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/merchs105.jpg",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/testContent113.png",
         "name": "Перчатки UFC",
         "price": "28 999 ₽",
         "size": "XL"
