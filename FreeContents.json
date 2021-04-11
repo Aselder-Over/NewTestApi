@@ -2,31 +2,37 @@
   {
     "id": "1",
     "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/freeVideo1.png",
-    "video": "g78ia7ZfvlQ"
+    "video": "g78ia7ZfvlQ",
+    "title": "Чемпионский бой Хабиб vs Порье"
   },
   {
     "id": "2",
     "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/freeVideo2.png",
-    "video": "SYySNZZQjlI"
+    "video": "SYySNZZQjlI",
+    "title": "Нарезка самых ярких моментов турнира"
   },
   {
     "id": "3",
     "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/freeVideo3.png",
-    "video": "TU5bfwl2KSA"
+    "video": "TU5bfwl2KSA",
+    "title": "Реванш Макгрегора и Диаза"
   },
   {
     "id": "4",
     "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/freeVideo4.png",
-    "video": "pEDW8_mHfpo"
+    "video": "pEDW8_mHfpo",
+    "title": "Зрелищные поединки"
   },
   {
     "id": "5",
     "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/freeVideo5.png",
-    "video": "pEDW8_mHfpo"
+    "video": "pEDW8_mHfpo",
+    "title": "Бой за чемпионский пояс"
   },
   {
     "id": "6",
     "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/freeVideo6.png",
-    "video": "pEDW8_mHfpo"
+    "video": "pEDW8_mHfpo",
+    "title": "Самая техничная работа в партере"
   }
 ]
