@@ -48,14 +48,14 @@
   "merchBlock": [
       {
         "id": "1",
-        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/merchs103.jpg",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/Frame%206.png",
         "name": "Горская папаха Хабиба Нурмагомедова",
         "price": "16 450 ₽",
         "size": "L"
       },
       {
         "id": "2",
-        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/merchs102.jpg",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/NewTestApi/main/Frame%2011.png",
         "name": "Футболка UFC Nurmagomedov",
         "price": "11 000 ₽",
         "size": "L"
